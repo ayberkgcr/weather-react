@@ -66,7 +66,7 @@ function App() {
             {Math.round(weather.main.temp)}°c
           </div>
           <div className="weather">{weather.weather[0].main}</div>
-          <div className="weather">{weather.weather[0].main} Feels Like</div>
+
         </div>
         </div>
 
