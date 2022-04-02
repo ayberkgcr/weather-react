@@ -78,7 +78,8 @@ function App() {
       </main>
 
 
-  
+  Ayberk Göçer
+  1M
       
     </div>
   );
